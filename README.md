@@ -6,8 +6,9 @@ This plugin has only been tested with Wordpress 6.1.1 version.
 
 <strong>Previews</strong>
 
-![]()
-![]()
+![](example1.JPG)
+![](example2.JPG)
+![](example3.JPG)
 
 ## How it works
 
